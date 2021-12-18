@@ -5,5 +5,5 @@
 - install xmlhttprequest (npm install xmlhttprequest) in terminal  
 - using terminal run "node WebAPIs_test" from directory, where WebAPIs_test.js exists  
 - in TeamCity in build step  
--          Runner type - Command Line   
--          Enter build script content - npm install   npm install mocha-teamcity-reporter   npm run mocha --no-timeouts --reporter mochawesome
+           Runner type - Command Line  
+           Enter build script content - npm install   npm install mocha-teamcity-reporter   npm run mocha --no-timeouts --reporter mochawesome
